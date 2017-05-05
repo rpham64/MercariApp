@@ -3,7 +3,7 @@ package com.mercari.mercaritest;
 import android.app.Application;
 
 
-public class MercariApp extends Application implements AppGraph.Holder{
+public class MercariApp extends Application {
 
     private AppComponent appComponent;
 
@@ -12,10 +12,5 @@ public class MercariApp extends Application implements AppGraph.Holder{
         super.onCreate();
         appComponent = AppComponent.Initializer.init(this);
         appComponent.inject(this);
-    }
-
-    @Override
-    public AppGraph getAppGraph() {
-        return appComponent;
     }
 }

@@ -1,8 +1,6 @@
 package com.mercari.mercaritest;
 
 
-import android.content.Context;
-
 import com.mercari.mercaritest.data.api.ApiModule;
 
 import javax.inject.Singleton;
@@ -15,7 +13,8 @@ import dagger.Component;
         AppModule.class,
         ApiModule.class,
 })
-public interface AppComponent extends AppGraph {
+public interface AppComponent {
+    void inject(MercariApp app);
 
     final class Initializer {
         static AppComponent init(MercariApp app) {
@@ -25,11 +24,5 @@ public interface AppComponent extends AppGraph {
         }
 
         private Initializer() {}
-    }
-
-    final class Holder {
-        public static AppGraph get(Context context) {
-            return AppGraph.Holder.class.cast(context.getApplicationContext()).getAppGraph();
-        }
     }
 }
