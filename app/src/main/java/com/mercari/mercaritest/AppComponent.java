@@ -1,8 +1,6 @@
 package com.mercari.mercaritest;
 
 
-import com.mercari.mercaritest.data.api.ApiModule;
-
 import javax.inject.Singleton;
 
 import dagger.Component;
@@ -10,8 +8,7 @@ import dagger.Component;
 
 @Singleton
 @Component(modules = {
-        AppModule.class,
-        ApiModule.class,
+        AppModule.class
 })
 public interface AppComponent {
     void inject(MercariApp app);
