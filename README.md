@@ -5,7 +5,7 @@ For Technical interview
 
 ![screenshot](https://preview.ibb.co/fst4d5/Screen_Shot_2017_05_05_at_2_56_26_PM.png)
 
-- Build an app that loads data from `all.json` which is stored in `assets`
+- Build an app that loads data from `all.json` which is stored in `assets`, and make the app look like the above screenshot.
 - Write in a such way that data retrieval implementation can be easily replaced. For example, it is currenly loaded from `all.json` file but in the near future we might want to fetch the data from network.
 - In the item cell view, it needs to display item image from `photo`, title from `name`, and price from `price`.
 - JSON representation of Java classes are pre-defined. See `com.mercari.mercaritest.data.model.Item` and `com.mercari.mercaritest.data.model.Response`.
