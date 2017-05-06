@@ -17,3 +17,5 @@ For Technical interview
 - Even though this app is relatively simple, please write code in "production ready" level; that is, write in a way that you would normally do on production app.
 
 When you have questions, please don't hesitate to ask!
+
+### Estimated time commitment: 2~3 hours
