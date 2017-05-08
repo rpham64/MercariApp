@@ -11,8 +11,8 @@ For Technical interview
 - JSON representation of Java classes are pre-defined. See `com.mercari.mercaritest.data.model.Item` and `com.mercari.mercaritest.data.model.Response`.
 - For price background, use `item_price_background.xml` with a text style of `black_14_white`.
 - For item name, use `regular_14_black_70op` text style.
-- You are required to build dependency graphs using [Dagger](https://google.github.io/dagger/)
-- It is our requirement to use [RxJava 2.0](https://github.com/ReactiveX/RxJava)
+- You are encouraged to build dependency graphs using [Dagger](https://google.github.io/dagger/)
+- You are encouraged to use [RxJava](https://github.com/ReactiveX/RxJava)
 - display `sold.png` as shown when `Item.status` equals to `sold_out`.
 - Even though this app is relatively simple, please write code in "production ready" level; that is, write in a way that you would normally do on production app.
 
