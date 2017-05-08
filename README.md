@@ -1,7 +1,7 @@
 # mercari-android-test
 For Technical interview 
 
-## Requirement Description
+## Description
 
 ![screenshot](https://preview.ibb.co/fst4d5/Screen_Shot_2017_05_05_at_2_56_26_PM.png)
 
