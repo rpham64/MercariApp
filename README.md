@@ -18,4 +18,4 @@ For Technical interview
 
 When you have questions, please don't hesitate to ask!
 
-### Estimated time commitment: 2~3 hours
+### Estimated time commitment: 2 hours
