@@ -15,6 +15,8 @@ For Technical interview
 - You are encouraged to use [RxJava](https://github.com/ReactiveX/RxJava)
 - display `sold.png` as shown when `Item.status` equals to `sold_out`.
 - Even though this app is relatively simple, please write code in "production ready" level; that is, write in a way that you would normally do on production app.
+- Basic unit tests for bonus points
+- Please use a known architecture with justification for your choice included
 
 When you have questions, please don't hesitate to ask!
 
