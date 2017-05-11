@@ -28,4 +28,4 @@ When you have questions, please don't hesitate to ask!
 
 ### Estimated time commitment: 2 hours
 
-### Optional Project Description (filled by candidate)
+## Optional Project Description (filled by candidate)
