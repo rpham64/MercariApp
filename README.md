@@ -16,7 +16,7 @@ For Technical interview
 - display `sold.png` as shown when `Item.status` equals to `sold_out`.
 - Even though this app is relatively simple, please write code in "production ready" level; that is, write in a way that you would normally do on production app.
 - Basic unit tests for bonus points
-- Please use a known architecture with justification for your choice included
+- Please use a known architecture with justification for your choice included, explained in README
 
 When you have questions, please don't hesitate to ask!
 
@@ -24,8 +24,6 @@ When you have questions, please don't hesitate to ask!
 
 ## Instructions for submitting the exercise
 1. Create a new git repo and Android Studio project, committing with frequency and with the type of commit messages you would write on a typical project.
-2. A README that gives and overview of the project is strongly encouraged (fill in Optional Project Description)
+2. Submit with README that gives and overview of the project with technical detail
 3. Zip up the repo and send back an email with attachment when you’ve completed the exercise and we will review it as soon as possible.
 4. We’ll build it your app directly from the repo you provide
-
-## Optional Project Description (filled by candidate)
