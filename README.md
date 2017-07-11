@@ -23,7 +23,7 @@ When you have questions, please don't hesitate to ask!
 ### Estimated time commitment: 2 hours
 
 ## Instructions for submitting the exercise
-1. Create a new git repo and Android Studio project, committing with frequency and with the type of commit messages you would write on a typical project.
+1. Create a new git repo and use the provided project as a base to complete the assignment, committing with frequency and with the type of commit messages you would write on a typical project.
 2. Submit with README that gives and overview of the project with technical detail
 3. Zip up the repo and send back an email with attachment when you’ve completed the exercise and we will review it as soon as possible.
 4. We’ll build it your app directly from the repo you provide
